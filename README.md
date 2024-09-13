@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### WELCOME TO MY PAGE 👋👋👋
+My name is Ha Duy Long. I am a student of Hanoi University of Science and Technology, majoring in Computer Engineering.
 <!--
 **haduylong/haduylong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
