@@ -16,6 +16,11 @@ My name is Ha Duy Long. I am a student of Hanoi University of Science and Techno
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=exampletoeiconline&theme=gruvbox" />
 </a>  
+
+ <a href="https://github.com/haduylong/Quan_ly_sinh_vien">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=Quan_ly_sinh_vien&theme=dark" />
+</a>  
 <!--
 **haduylong/haduylong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
