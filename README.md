@@ -2,14 +2,14 @@
 My name is Ha Duy Long. I am a student of Hanoi University of Science and Technology, majoring in Computer Engineering.
 
 ## My Repository:
-<a href="https://github.com/haduylong/NIOS2/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=NIOS2&theme=radical" />
-</a>    
-
 <a href="https://github.com/haduylong/XilinxMicroblaze/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=XilinxMicroblaze&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=XilinxMicroblaze&theme=radical" />
+</a>    
+
+<a href="https://github.com/haduylong/NIOS2/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=NIOS2&theme=merko" />
 </a>
 
  <a href="https://github.com/haduylong/exampletoeiconline/">
