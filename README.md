@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Ha Duy Long. I am a student of Hanoi University of Science and Technology, majoring in Computer Engineering.
 
-## My Repository:
+## My Repositories:
 <a href="https://github.com/haduylong/XilinxMicroblaze/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=XilinxMicroblaze&theme=radical" />
