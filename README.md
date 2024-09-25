@@ -31,6 +31,16 @@ My name is Ha Duy Long. I am a student of Hanoi University of Science and Techno
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=LapTrinhMang&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/haduylong/BookShop">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=BookShop&theme=cobalt" />
+</a>
+
+<a href="https://github.com/haduylong/cong_nghe_web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=cong_nghe_web&theme=synthwave" />
+</a>
 <!--
 **haduylong/haduylong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
