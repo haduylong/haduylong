@@ -2,19 +2,10 @@
 My name is Ha Duy Long. I am a student of Hanoi University of Science and Technology, majoring in Computer Engineering.
 
 ## My Repositories:
-  <a href="https://github.com/haduylong/NIOS2/">
+  
+<a href="https://github.com/haduylong/IT_Job">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=NIOS2&theme=merko" />
-</a>
-
-<a href="https://github.com/haduylong/XilinxMicroblaze/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=XilinxMicroblaze&theme=radical" />
-</a>  
-
- <a href="https://github.com/haduylong/exampletoeiconline/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=exampletoeiconline&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=IT_Job&theme=merko" />
 </a>  
 
 <a href="https://github.com/haduylong/identity">
@@ -22,20 +13,15 @@ My name is Ha Duy Long. I am a student of Hanoi University of Science and Techno
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=identity&theme=dark" />
 </a>   
 
- <a href="https://github.com/haduylong/IoT_For_Agriculture">
+<a href="https://github.com/haduylong/exampletoeiconline/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=IoT_For_Agriculture&theme=onedark" />
- </a>
-
-<a href="https://github.com/haduylong/LapTrinhMang">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=LapTrinhMang&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=exampletoeiconline&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/haduylong/BookShop">
+<a href="https://github.com/haduylong/onvif-camera">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=BookShop&theme=cobalt" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=onvif-camera&theme=radical" />
+</a>  
 
 <a href="https://github.com/haduylong/cong_nghe_web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -46,6 +32,31 @@ My name is Ha Duy Long. I am a student of Hanoi University of Science and Techno
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=Quan_ly_sinh_vien&theme=dark" />
 </a> 
+
+<a href="https://github.com/haduylong/IoT_For_Agriculture">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=IoT_For_Agriculture&theme=onedark" />
+ </a>
+
+<a href="https://github.com/haduylong/LapTrinhMang">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=LapTrinhMang&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/haduylong/NIOS2/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=NIOS2&theme=merko" />
+</a>
+
+<a href="https://github.com/haduylong/XilinxMicroblaze/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=XilinxMicroblaze&theme=radical" />
+</a>  
+
+<a href="https://github.com/haduylong/BookShop">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haduylong&repo=BookShop&theme=cobalt" />
+</a>
 <!--
 **haduylong/haduylong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
